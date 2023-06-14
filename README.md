@@ -7,7 +7,7 @@ PROJETO INICIADO EM 13/06/2023
 # Premissa:
 
 - Fácil, leve e rápido, por conta disso, o app roda nativamente (React Native) e pode ser utilizado online e offline
-- Para os colaboradores do estabelecimento, todos os setores e estapas
+- Para os colaboradores do estabelecimento, todos os setores e etapas
 - Armazenamento de todos os dados necessários
 
 # Principais funções:
